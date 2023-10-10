@@ -1,2 +1,2 @@
 # Metacademy
-## Landing Pages HTML, CSS & Javascript
+~ Landing Pages HTML, CSS & Javascript
